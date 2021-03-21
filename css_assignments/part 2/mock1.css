@@ -1,0 +1,42 @@
+.container {
+    width: fit-content;
+    height: auto;
+    border: 2px solid;
+    position: relative;
+    margin-left: 35%;
+    margin-top: 4%;
+}
+.mock {
+    width: 400px;
+    height: 20px;
+    border-bottom: 2px solid;
+}
+.dive {
+    width: 80px;
+    height: 70px;
+    border: 2px solid;
+    background-color: rgb(252, 169, 211);
+    margin: 20px;
+}
+.meek {
+    width: 230px;
+    height: 70px;
+    border: 2px solid;
+    background-color: rgb(166, 176, 233);
+    position: absolute;
+    top: 42px;
+    right: 40px;
+}
+#two {
+    top: 136px;
+}
+#three {
+    top: 230px;
+}
+#down {
+    width: 337px;
+    height: 70px;
+    border: 2px solid;
+    margin: 20px;
+    background-color: rgb(255, 226, 146);
+}
